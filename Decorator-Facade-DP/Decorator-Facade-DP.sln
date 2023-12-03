@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Decorator-DP", "Decorator-DP\Decorator-DP.csproj", "{041B6D40-10D0-4402-9029-E7FD5DDDFB67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade-DP", "Facade-DP\Facade-DP.csproj", "{44E4C0C8-9772-41E2-A5B7-3A42A8303C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{041B6D40-10D0-4402-9029-E7FD5DDDFB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{041B6D40-10D0-4402-9029-E7FD5DDDFB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{041B6D40-10D0-4402-9029-E7FD5DDDFB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{041B6D40-10D0-4402-9029-E7FD5DDDFB67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44E4C0C8-9772-41E2-A5B7-3A42A8303C1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44E4C0C8-9772-41E2-A5B7-3A42A8303C1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44E4C0C8-9772-41E2-A5B7-3A42A8303C1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44E4C0C8-9772-41E2-A5B7-3A42A8303C1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {611ED7DF-7807-4226-BD93-19DCD8F364A1}
+	EndGlobalSection
+EndGlobal
